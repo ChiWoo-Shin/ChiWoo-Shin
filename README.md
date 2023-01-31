@@ -3,7 +3,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiWoo-Shin&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/ChiWoo-Shin/github-readme-stats)
+![ChiWoo-Shin's github stats](https://github-readme-stats.vercel.app/api?username=ChiWoo-Shin&show_icons=true)
 </div>
 
 <h3 align="center">➡️ SNS ➡️</h3>
