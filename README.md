@@ -5,7 +5,7 @@
 ![ChiWoo-Shin's github stats](https://github-readme-stats.vercel.app/api?username=ChiWoo-Shin&show_icons=true)
 </div>
 <div>
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin8037)](https://solved.ac/shin8037/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin8037)](https://solved.ac/shin8037/)
 </div>
 
 <h3 align="center">➡️ SNS ➡️</h3>
