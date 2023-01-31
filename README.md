@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20there👋&fontSize=90)
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
+
   ![ChiWoo-Shin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChiWoo-Shin&show_icons=true&theme=radical)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shin8037)](https://solved.ac/shin8037/)
-</div>
+
 
 
 <h3 align="center">➡️ SNS ➡️</h3>
