@@ -1,7 +1,8 @@
 ### Hi there 👋
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">➡️ SNS ➡️</h3>
 <p align="center">
 <a href="https://velog.io/@shin8037" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chiwoo-shin-585896202/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 </p>
 
 
