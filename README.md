@@ -18,13 +18,13 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764abc?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 </p>
 
 
 <!--
 **ChiWoo-Shin/ChiWoo-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
