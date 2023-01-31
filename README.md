@@ -1,6 +1,17 @@
 ### Hi there 👋
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+<a href="https://velog.io/@shin8037" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChiWoo-Shin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+</p>
+
 
 <!--
 **ChiWoo-Shin/ChiWoo-Shin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,10 +27,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C-a8b9cc?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-</p>
